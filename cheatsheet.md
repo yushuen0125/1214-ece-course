@@ -34,7 +34,6 @@ _You **can** combine them_
 ## 3. Images
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png) <br>
-![GitHub Logo](logo.png) <br>
 
 Format: `![Alt Text](url)`
 
@@ -85,4 +84,4 @@ function fancyAlert(arg) {
 Default | Align Left | Align Center | Align Right
 --------|:-----------|:------------:|------------:
 xxx     |xxx         |xxx           |xxx
-     xxx|        xxxx|          xxxx|         xxxx
+    xxx |       xxxx |          xxxx|         xxxx
