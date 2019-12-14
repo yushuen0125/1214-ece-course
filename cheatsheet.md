@@ -84,3 +84,4 @@ function fancyAlert(arg) {
 Default | Align Left | Align Center | Align Right |
 --------|:-----------|:------------:|------------:|
 xxx     |xxx         |xxx           |xxx          |
+     xxx|         xxx|           xxx|          xxx|
