@@ -81,7 +81,7 @@ function fancyAlert(arg) {
 
 ## 9. Tables
 
-Default | Align Left | Align Center | Align Right |
---------|:-----------|:------------:|------------:|
-xxx     |xxx         |xxx           |xxx          |
-     xxx|         xxx|           xxx|          xxx|
+    Default | Align Left | Align Center | Align Right |
+    --------|:-----------|:------------:|------------:|
+    xxx     |xxx         |xxx           |xxx          |
+         xxx|         xxx|           xxx|          xxx|
